@@ -10,7 +10,7 @@ Help stop American Consorship by putting a ribbon that says Stop SOPA on your Wo
 
 == Description ==
 
-Easy as that! Look at the screenshots to see how the ribbon looks. Learn more about SOPA [here](http://americancensorship.org/). Thank you for showing your support!
+A black ribbon with the words "Stop SOPA" will be put on in the top right corner of your website, linking to the [American Censorship](http://americancensorship.org/) website. Look at the screenshots to see how the ribbon looks. Check out the [Help Stop SOPA/PIPA](http://wordpress.org/news/2012/01/help-stop-sopa-pipa/) entry in the WordPress news too. Thank you for showing your support!
 
 == Installation ==
 
