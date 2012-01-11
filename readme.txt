@@ -24,4 +24,4 @@ A black ribbon with the words "Stop SOPA" will be put on in the top right corner
 == Changelog ==
 
 = 1.0 =
-* First release, nothing fancy, this is a 5-line plugin written to practice my Dvorak typing skills.
+* First release, nothing fancy, this is a 5-line plugin written to practice my Dvorak typing skills. Props to @yoast for the cursor/pointer tip.
